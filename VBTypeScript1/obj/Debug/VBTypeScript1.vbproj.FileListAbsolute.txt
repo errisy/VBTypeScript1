@@ -1,0 +1,10 @@
+c:\users\zhenyu\documents\visual studio 2015\Projects\VBTypeScript1\VBTypeScript1\bin\Debug\VBTypeScript1.exe.config
+c:\users\zhenyu\documents\visual studio 2015\Projects\VBTypeScript1\VBTypeScript1\obj\Debug\VBTypeScript1.vbprojResolveAssemblyReference.cache
+c:\users\zhenyu\documents\visual studio 2015\Projects\VBTypeScript1\VBTypeScript1\obj\Debug\VBTypeScript1.Resources.resources
+c:\users\zhenyu\documents\visual studio 2015\Projects\VBTypeScript1\VBTypeScript1\obj\Debug\VBTypeScript1.vbproj.GenerateResource.Cache
+c:\users\zhenyu\documents\visual studio 2015\Projects\VBTypeScript1\VBTypeScript1\obj\Debug\VBTypeScript1.xml
+c:\users\zhenyu\documents\visual studio 2015\Projects\VBTypeScript1\VBTypeScript1\bin\Debug\VBTypeScript1.exe
+c:\users\zhenyu\documents\visual studio 2015\Projects\VBTypeScript1\VBTypeScript1\bin\Debug\VBTypeScript1.pdb
+c:\users\zhenyu\documents\visual studio 2015\Projects\VBTypeScript1\VBTypeScript1\bin\Debug\VBTypeScript1.xml
+c:\users\zhenyu\documents\visual studio 2015\Projects\VBTypeScript1\VBTypeScript1\obj\Debug\VBTypeScript1.exe
+c:\users\zhenyu\documents\visual studio 2015\Projects\VBTypeScript1\VBTypeScript1\obj\Debug\VBTypeScript1.pdb
